@@ -225,3 +225,6 @@ data/
 # Model artifacts
 *.pkl
 *.joblib
+
+# Mac file
+*.DS_Store
